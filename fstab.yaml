@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p220207-e2271469.adobeaemcloud.com/bin/franklin.delivery/nygilb/aem-ue/main"
+    url: "https://localhost:8443/bin/franklin.delivery/nygilb/aem-ue/main"
     type: "markup"
     suffix: ".html"
