@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/content/wknd-xwalk"
+    url: "http://localhost:4502/content/wknd-xwalk"
     type: "markup"
     suffix: ".html"
