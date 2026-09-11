@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/nygilb/aem-ue/main"
+    url: "https://localhost:8443/content/wknd-xwalk"
     type: "markup"
     suffix: ".html"
